@@ -1,0 +1,147 @@
+!black brick https://s9.postimg.org/bd4idwzqn/craft_black_brick.png % Basic Crafting Recipes !
+!dark brick https://s9.postimg.org/bd4idwzqn/craft_black_brick.png % Basic Crafting Recipes !
+!black official sign https://s9.postimg.org/rbd8429e7/craft_black_official_sign.png % Basic Crafting Recipes !
+!blue brick https://s9.postimg.org/o4iokfwnz/craft_blue_brick.png % Basic Crafting Recipes !
+!blue fadey foam https://s9.postimg.org/98k5cusz3/craft_blue_fadey_foam.png % Basic Crafting Recipes !
+!blue paper lantern https://s9.postimg.org/hqtlh7exb/craft_blue_paper_lantern.png % Basic Crafting Recipes !
+!book https://s9.postimg.org/8j1d0inan/craft_book.png % Basic Crafting Recipes !
+!bouncy block https://s9.postimg.org/49wmycrr3/craft_bouncy_block.png % Basic Crafting Recipes !
+!candle https://s9.postimg.org/jvdyibj4v/craft_candle.png % Basic Crafting Recipes !
+!cement https://s9.postimg.org/lafj71rxr/craft_cement.png % Basic Crafting Recipes !
+!wet cement https://s9.postimg.org/lafj71rxr/craft_cement.png % Basic Crafting Recipes !
+!clay block https://s9.postimg.org/49wmydmm7/craft_clay_block.png % Basic Crafting Recipes !
+!clay brick https://s9.postimg.org/yel3jr74v/craft_clay_brick.png % Basic Crafting Recipes !
+!closed sign https://s9.postimg.org/98k5cxdkf/craft_closed_sign.png % Basic Crafting Recipes !
+!cloth https://s9.postimg.org/b0d47u4n3/craft_cloth.png % Basic Crafting Recipes !
+!cloudy potion https://s9.postimg.org/8vsr6rifz/craft_cloudy_potion.png % Basic Crafting Recipes !
+!coal block https://s9.postimg.org/wms4ovqcv/craft_coal_block.png % Basic Crafting Recipes !
+!cobblestone https://s9.postimg.org/4mo14lum7/craft_cobblestone.png % Basic Crafting Recipes !
+!crude signpost https://s9.postimg.org/wms4ow5sf/craft_crude_signpost.png % Basic Crafting Recipes !
+!desk pot https://s9.postimg.org/vkhy6cuov/craft_desk_pot.png % Basic Crafting Recipes !
+!distiller https://s9.postimg.org/it3rzusmn/craft_distiller.png % Basic Crafting Recipes !
+!down sign https://s9.postimg.org/fz0mmey67/craft_down_sign.png % Basic Crafting Recipes !
+!fadey foam https://s9.postimg.org/he27b61u7/craft_fadey_foam.png % Basic Crafting Recipes !
+!fancy wood https://s9.postimg.org/vkhy6dpjz/craft_fancy_wood.png % Basic Crafting Recipes !
+!foam https://s9.postimg.org/p6sv35n8v/craft_foam.png % Basic Crafting Recipes !
+!full deluxe watering can https://s9.postimg.org/3kdum3ttb/craft_full_deluxe_watering_can.png % Basic Crafting Recipes !
+!full watering can https://s9.postimg.org/5oy7n735r/craft_full_watering_can.png % Basic Crafting Recipes !
+!gizmo https://s9.postimg.org/869yuhhxb/craft_gizmo.png % Basic Crafting Recipes !
+!glue https://s9.postimg.org/49wmyi4nj/craft_glue.png % Basic Crafting Recipes !
+!gold block https://s9.postimg.org/p6sv36ae7/craft_gold_block.png % Basic Crafting Recipes !
+!golden stick https://s9.postimg.org/6egzzllpr/craft_gold_stick.png % Basic Crafting Recipes !
+!gold stick https://s9.postimg.org/6egzzllpr/craft_gold_stick.png % Basic Crafting Recipes !
+!golden wand https://s9.postimg.org/6egzzllpr/craft_gold_stick.png % Basic Crafting Recipes !
+!gold wand https://s9.postimg.org/6egzzllpr/craft_gold_stick.png % Basic Crafting Recipes !
+!green goop https://s9.postimg.org/6egzzltfj/craft_goop.png % Basic Crafting Recipes !
+!goop https://s9.postimg.org/6egzzltfj/craft_goop.png % Basic Crafting Recipes !
+!green fadey foam https://s9.postimg.org/ro4maghfz/craft_green_fadey_foam.png % Basic Crafting Recipes !
+!green official sign https://s9.postimg.org/5oy7n98bj/craft_green_official_sign.png % Basic Crafting Recipes !
+!green paper lantern https://s9.postimg.org/dhovf8m0f/craft_green_paper_lantern.png % Basic Crafting Recipes !
+!grey checkers https://s9.postimg.org/dhovf8tq7/craft_grey_checkers.png % Basic Crafting Recipes !
+!grey checker https://s9.postimg.org/dhovf8tq7/craft_grey_checkers.png % Basic Crafting Recipes !
+!checker -Grey Checker\n-Colored Checker !
+!red checker -Grey Checker\n-Colored Checker !
+!blue checker -Grey Checker\n-Colored Checker !
+!green checker -Grey Checker\n-Colored Checker !
+!orange checker -Grey Checker\n-Colored Checker !
+!yellow checker -Grey Checker\n-Colored Checker !
+!purple checker -Grey Checker\n-Colored Checker !
+!pink checker -Grey Checker\n-Colored Checker !
+!black checker -Grey Checker\n-Colored Checker !
+!white checker -Grey Checker\n-Colored Checker !
+!checkers -Grey Checker\n-Colored Checker !
+!red checkers -Grey Checker\n-Colored Checker !
+!blue checkers -Grey Checker\n-Colored Checker !
+!green checkers -Grey Checker\n-Colored Checker !
+!orange checkers -Grey Checker\n-Colored Checker !
+!yellow checkers -Grey Checker\n-Colored Checker !
+!purple checkers -Grey Checker\n-Colored Checker !
+!pink checkers -Grey Checker\n-Colored Checker !
+!black checkers -Grey Checker\n-Colored Checker !
+!white checkers -Grey Checker\n-Colored Checker !
+!harm wand https://s9.postimg.org/vkhy6gxan/craft_harm_wand.png % Basic Crafting Recipes !
+!haunted lamp i https://s9.postimg.org/ewqg3za8v/craft_haunted_lamp_I.png % Basic Crafting Recipes !
+!haunted lamp ii https://s9.postimg.org/7gr6i6u9b/craft_haunted_lamp_II.png % Basic Crafting Recipes !
+!hainted lamp iii https://s9.postimg.org/49wmykhj3/craft_haunted_lamp_III.png % Basic Crafting Recipes !
+!hint sign https://s9.postimg.org/3x58se6z3/craft_hint_sign.png % Basic Crafting Recipes !
+!iron block https://s9.postimg.org/5oy7nay1r/craft_iron_block.png % Basic Crafting Recipes !
+!knock back wand https://s9.postimg.org/7gr6i7p4f/craft_knock_back_wand.png % Basic Crafting Recipes !
+!knockback wand https://s9.postimg.org/7gr6i7p4f/craft_knock_back_wand.png % Basic Crafting Recipes !
+!left sign https://s9.postimg.org/fm98gdl33/craft_left_sign.png % Basic Crafting Recipes !
+!magical potion https://s9.postimg.org/3kdum8jkf/craft_magical_potion.png % Basic Crafting Recipes !
+!mortar and pestle https://s9.postimg.org/t366z9au7/craft_mortar_and_pestle.png % Basic Crafting Recipes !
+!mortar https://s9.postimg.org/t366z9au7/craft_mortar_and_pestle.png % Basic Crafting Recipes !
+!mortar and https://s9.postimg.org/t366z9au7/craft_mortar_and_pestle.png % Basic Crafting Recipes !
+!pestle https://s9.postimg.org/t366z9au7/craft_mortar_and_pestle.png % Basic Crafting Recipes !
+!mud https://s9.postimg.org/h1at549bj/craft_mud.png % Basic Crafting Recipes !
+!neck pot https://s9.postimg.org/t366z9q9r/craft_neck_pot.png % Basic Crafting Recipes !
+!round neck pot https://s9.postimg.org/t366z9q9r/craft_neck_pot.png !
+!nest https://s9.postimg.org/8vsr6z0i7/craft_nest.png % Basic Crafting Recipes !
+!official sign https://s9.postimg.org/sqest3v5b/craft_official_sign.png % Basic Crafting Recipes !
+!open sign https://s9.postimg.org/5oy7ncnrz/craft_open_sign.png % Basic Crafting Recipes !
+!paper lantern https://s9.postimg.org/lzybjpia7/craft_paper_lantern.png % Basic Crafting Recipes !
+!pedestrians only https://s9.postimg.org/3kduma1kv/craft_pedestrians_only.png % Basic Crafting Recipes !
+!pedestrians only block https://s9.postimg.org/3kduma1kv/craft_pedestrians_only.png % Basic Crafting Recipes !
+!persian rug https://s9.postimg.org/cs632zgcv/craft_persian_rug.png % Basic Crafting Recipes !
+!phantom foam https://s9.postimg.org/4mo14tztr/craft_phantom_foam.png % Basic Crafting Recipes !
+!pot https://s9.postimg.org/ewqg42xf3/craft_pot.png % Basic Crafting Recipes !
+!purple paper lantern https://s9.postimg.org/xp2b7o1j3/craft_purple_paper_lantern.png % Basic Crafting Recipes !
+!quicksand https://s9.postimg.org/d4xh9717j/craft_quicksand.png % Basic Crafting Recipes !
+!red brick https://s9.postimg.org/5c6th82y7/craft_red_brick.png % Basic Crafting Recipes !
+!red fadey foam https://s9.postimg.org/yel3k1wxr/craft_red_fadey_foam.png % Basic Crafting Recipes !
+!red official sign https://s9.postimg.org/5c6th8idr/craft_red_official_sign.png % Basic Crafting Recipes !
+!red paper lantern https://s9.postimg.org/n28i2abe7/craft_red_paper_lantern.png % Basic Crafting Recipes !
+!right sign https://s9.postimg.org/6egzzsocf/craft_right_sign.png % Basic Crafting Recipes !
+!rope https://s9.postimg.org/7pryzk24v/craft_rope.png % Basic Crafting Recipes !
+!round pot https://s9.postimg.org/ui7ro3m8v/craft_round_pot.png % Basic Crafting Recipes !
+!sandstone https://s9.postimg.org/j5v66bl9r/craft_sandstone.png % Basic Crafting Recipes !
+!sandy block https://s9.postimg.org/f9huac7zz/craft_sandy_block.png % Basic Crafting Recipes !
+!sandy brick https://s9.postimg.org/869yuqaa7/craft_sandy_brick.png % Basic Crafting Recipes !
+!sewing kit https://s9.postimg.org/nezw8ibof/craft_sewing_kit.png % Basic Crafting Recipes !
+!silver block https://s9.postimg.org/pwbnfsiq7/craft_silver_block.png % Basic Crafting Recipes !
+!silver stick https://s9.postimg.org/gojez3jdr/craft_silver_stick.png % Basic Crafting Recipes !
+!silvery stick https://s9.postimg.org/gojez3jdr/craft_silver_stick.png % Basic Crafting Recipes !
+!silvery wand https://s9.postimg.org/gojez3jdr/craft_silver_stick.png % Basic Crafting Recipes !
+!silver wand https://s9.postimg.org/gojez3jdr/craft_silver_stick.png % Basic Crafting Recipes !
+!snot https://s9.postimg.org/gbs0sx8tr/craft_snot.png % Basic Crafting Recipes !
+!soil https://s9.postimg.org/61pltoqnz/craft_soil.png % Basic Crafting Recipes !
+!spike floor https://s9.postimg.org/ewqg47n67/craft_spike_floor.png % Basic Crafting Recipes !
+!stainless steel block https://s9.postimg.org/sqest9nhb/craft_stainless_steel_block.png % Basic Crafting Recipes !
+!steel block https://s9.postimg.org/4zffb5uzz/craft_steel_block.png % Basic Crafting Recipes !
+!steel hammer https://s9.postimg.org/yrchqcpj3/craft_steel_hammer.png % Basic Crafting Recipes !
+!stone block https://s9.postimg.org/qyltydr9r/craft_stone_block.png % Basic Crafting Recipes !
+!stone brick https://s9.postimg.org/lzybjuv6n/craft_stone_brick.png % Basic Crafting Recipes !
+!stone hammer https://s9.postimg.org/ejz1y2f73/craft_stone_hammer.png % Basic Crafting Recipes !
+!stop sign https://s9.postimg.org/5oy7njy4f/craft_stop_sign.png % Basic Crafting Recipes !
+!string https://s9.postimg.org/6egzzxe3j/craft_string.png % Basic Crafting Recipes !
+!stucco https://s9.postimg.org/lafj7j4xr/craft_stucco.png % Basic Crafting Recipes !
+!wet stucco https://s9.postimg.org/lafj7j4xr/craft_stucco.png % Basic Crafting Recipes !
+!wet paste https://s9.postimg.org/lafj7j4xr/craft_stucco.png % Basic Crafting Recipes !
+!paste https://s9.postimg.org/lafj7j4xr/craft_stucco.png % Basic Crafting Recipes !
+!torch https://s9.postimg.org/73zscb1sf/craft_torch.png % Basic Crafting Recipes !
+!up sign https://s9.postimg.org/z43vwlcyn/craft_up_sign.png % Basic Crafting Recipes !
+!varnish https://s9.postimg.org/igcdu3pwv/craft_varnish.png % Basic Crafting Recipes !
+!wand https://s9.postimg.org/7gr6ii77j/craft_wand.png % Basic Crafting Recipes !
+!warning sign https://s9.postimg.org/5c6thfdan/craft_warning_sign.png % Basic Crafting Recipes !
+!white curve road https://s9.postimg.org/t4g4sex5r/craft_white_curve_road.png % Basic Crafting Recipes !
+!white divider road https://s9.postimg.org/aovnv03lr/craft_white_divider_road.png % Basic Crafting Recipes !
+!white lattice https://s9.postimg.org/4nxyxx1jz/craft_white_lattice.png % Basic Crafting Recipes !
+!white plaster https://s9.postimg.org/4nxyxy44v/craft_white_plaster.png % Basic Crafting Recipes !
+!plaster -White Plaster\n-Colored Plaster !
+!red plaster -White Plaster\n-Colored Plaster !
+!blue plaster -White Plaster\n-Colored Plaster !
+!green plaster -White Plaster\n-Colored Plaster !
+!orange plaster -White Plaster\n-Colored Plaster !
+!yellow plaster -White Plaster\n-Colored Plaster !
+!purple plaster -White Plaster\n-Colored Plaster !
+!pink plaster -White Plaster\n-Colored Plaster !
+!black plaster -White Plaster\n-Colored Plaster !
+!white stripe road https://s9.postimg.org/o5smdw8sf/craft_white_road.png % Basic Crafting Recipes !
+!white road https://s9.postimg.org/o5smdw8sf/craft_white_road.png % Basic Crafting Recipes !
+!workbench https://s9.postimg.org/y33n6yo3z/craft_workbench.png % Basic Crafting Recipes !
+!yellow curve road https://s9.postimg.org/ujhph6vov/craft_yellow_curve_road.png % Basic Crafting Recipes !
+!yellow divider road https://s9.postimg.org/8x2p059z3/craft_yellow_divider_road.png % Basic Crafting Recipes !
+!yellow stripe road https://s9.postimg.org/h2kqyaqi7/craft_yellow_road.png % Basic Crafting Recipes !
+!yellow road https://s9.postimg.org/h2kqyaqi7/craft_yellow_road.png % Basic Crafting Recipes !
+!road -White Stripe Road\n-White Divider Road\n-White Curve Road\n-Yellow Stripe Road\n-Yellow Divider Road\n-Yellow Curve Road !
+!sign -Crude Signpost\n-Warning Sign\n-Stop Sign\n-Left Sign\n-Right Sign\n-Up Sign\n-Down Sign\n-Open Sign\n-Closed Sign\n-Red Official Sign\n-Green Official Sign\n-Black Official Sign\n-Hint Sign !
