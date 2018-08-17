@@ -212,7 +212,7 @@ async def on_message(message):
         for server in client.servers:
             for channel in server.channels:
                 if (channel.permissions_for(server.me).send_messages) and (channel.type == discord.ChannelType.text):
-                    if "338750099049938945" in [role.id for role in message.author.roles] and "338749477437440000" in message.server.id:
+                    if "282914836084686848" in message.author.id:
                         embed = discord.Embed(color= 0xDA0200)
                         embed.add_field(name="BROADCAST", value= str(message.content[4:]))
                         embed.set_thumbnail(url="https://s9.postimg.org/y7b8srq4f/icon_hollas.png")
