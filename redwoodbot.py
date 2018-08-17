@@ -50,8 +50,7 @@ async def on_message(message):
             await client.delete_message(error)
             
     elif "!MEMBERLIST" == message1:
-        if "338749477437440000" in message.server.id:
-            await client.send_message(message.channel, "You can check Redwoodians Member List on this link :point_right: https://bit.ly/2pOmGXL")
+         await client.send_message(message.channel, "You can check Redwoodians Member List on this link :point_right: https://bit.ly/2pOmGXL")
 
     elif "!RANDOMREALM" == message1:
         sheet = clienter.open('RandomRealms').sheet1
