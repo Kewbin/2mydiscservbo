@@ -37,7 +37,7 @@ async def on_message(message):
 
     if "!ADDTOCLAN" == message1:
         sheet = clienter.open('Redwoodians').sheet1
-        if "338750099049938945" in [role.id for role in message.author.roles] and "338749477437440000" in message.server.id:
+        if "282914836084686848" in message.author.id:
             date = datetime.date.today().strftime("%Y-%m-%d")
             row = [message.content[11:], date]
             index = 2
