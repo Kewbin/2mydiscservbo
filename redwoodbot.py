@@ -106,7 +106,7 @@ async def on_message(message):
         
     elif "!HELP" == message1:
         embed = discord.Embed(color= 0xDA0200)
-        if "282914836084686848" in message.user.id:
+        if "282914836084686848" in message.author.id:
             embed.add_field(name="Commands", value="!craft <item name>\n!price <pack name>\n!memberlist\n!ccinfo\n!botinfo\n!randomrealm")
             embed.add_field(name="Kewbin Commands", value="!addtoclan <nickname>\n!br <message>")
         else:
