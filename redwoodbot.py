@@ -239,7 +239,7 @@ async def uptime():
         seconds += 1
         if seconds == 60:
             seconds = 0
-            day += 1
+            minutes += 1
             if minutes == 60:
                 minutes = 0
                 hour += 1
