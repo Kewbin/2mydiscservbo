@@ -201,6 +201,7 @@ async def on_message(message):
         else:
             displayh = str(hour)
         embed.add_field(name="Uptime", value=str(displayh + ":" + displaym + ":" + displays + "\n\u200b"))
+        await client.send_message(message.channel, embed = embed)
 
     elif "!BR" == message1:
         for server in client.servers:
