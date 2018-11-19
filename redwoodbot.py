@@ -200,12 +200,7 @@ async def on_message(message):
             displayh = "0" + str(hour)
         else:
             displayh = str(hour)
-        displayd = str(day)
-        if day == 1:
-            embed.add_field(name="Uptime", value=str(displayd + " day - " + displayh + ":" + displaym + ":" + displays + "\n\u200b"))
-        else:
-            embed.add_field(name="Uptime", value=str(displayd + " days - " + displayh + ":" + displaym + ":" + displays + "\n\u200b"))
-        await client.send_message(message.channel, embed = embed)
+        embed.add_field(name="Uptime", value=str(displayh + ":" + displaym + ":" + displays + "\n\u200b"))
 
     elif "!BR" == message1:
         for server in client.servers:
@@ -242,9 +237,6 @@ async def uptime():
             if minutes == 60:
                 minutes = 0
                 hour += 1
-                if hour == 24:
-                    hour = 0
-                    day += 1
 
 
 
