@@ -114,32 +114,8 @@ async def on_message(message):
 
     #Crafting
     elif "!CRAFT" == message1:
-        craft = open("craft.txt", "r")
-        craft2 = craft.read()
-        hladaj = str(message.content[7:])
-        hladaj2 = hladaj.lower()
-        hladaj3 = hladaj.upper()
-        try:
-            result = re.search('!' + hladaj2 + ' (.*?) !', str(craft2))
-            recipe = re.search('!' + hladaj2 + ' (.*?) %', str(result.group(0)))
-            category = re.search('% (.*?) !', str(result.group(0)))
-            embed = discord.Embed(title= "**" + hladaj3 + "** crafting recipe", color= 0xDA0200)
-            embed.add_field(name="Category", value= category.group(1))
-            embed.set_image(url = recipe.group(1))
-            await client.send_message(message.channel, embed = embed)
-        except:
-            try:
-                result = re.search('!' + hladaj2 + ' (.*?) !', str(craft2))
-                embed = discord.Embed(title= "Item **" + hladaj3 + "** not found :no_entry:",description = "Did you mean any of these?\n\n" + result.group(1).replace(r'\n','\n'), color= 0xDA0200)
-                error = await client.send_message(message.channel, embed = embed)
-                await client.delete_message(message)
-                await asyncio.sleep(60)
-                await client.delete_message(error)
-            except:
-                error = await client.send_message(message.channel, "Item **" + hladaj3 + "** not found! :no_entry:")
-                await client.delete_message(message)
-                await asyncio.sleep(6)
-                await client.delete_message(error)
+         await client.send_message(message.channel, 'This feature is work in progress. Stay tuned!')
+        
 
     #Prices
     elif "!PRICE" == message1 or "!PRICES" == message1:
@@ -188,19 +164,6 @@ async def on_message(message):
         embed.set_thumbnail(url="https://s9.postimg.org/4pfpwxg9b/Redwood_Bot.png")
         embed.add_field(name="Creator", value = "Kewbin#3346\n\u200b",inline = False)
         embed.add_field(name="Number of Servers using Redwood-Bot", value = str(len(client.servers)) + "\n\u200b" , inline = False)
-        if seconds < 10:
-            displays = "0" + str(seconds)
-        else:
-            displays = str(seconds)
-        if minutes < 10:
-            displaym = "0" + str(minutes)
-        else:
-            displaym = str(minutes)
-        if hour < 10:
-            displayh = "0" + str(hour)
-        else:
-            displayh = str(hour)
-        embed.add_field(name="Uptime", value=str(displayh + ":" + displaym + ":" + displays + "\n\u200b"))
         await client.send_message(message.channel, embed = embed)
 
     elif "!BR" == message1:
@@ -219,29 +182,6 @@ async def on_message(message):
                         await asyncio.sleep(6)
                         await client.delete_message(error)
     
-async def uptime():
-    await client.wait_until_ready()
-    global seconds
-    seconds = 0
-    global minutes
-    minutes = 0
-    global hour
-    hour = 0
-    global day
-    day = 0
-    while not client.is_closed:
-        await asyncio.sleep(1)
-        seconds += 1
-        if seconds == 60:
-            seconds = 0
-            minutes += 1
-            if minutes == 60:
-                minutes = 0
-                hour += 1
-
-
-
-client.loop.create_task(uptime())
 client.run('NDI4OTIzOTMzMzk2NTY2MDE3.DZ6KLg.mtPDKfF8k9_XVAWWMypxAyKujVM')
 
 #https://discordapp.com/oauth2/authorize?client_id=428923933396566017&scope=bot&permissions=268676216
